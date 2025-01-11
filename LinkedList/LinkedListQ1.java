@@ -18,6 +18,7 @@ public class LinkedListQ1 {
 
        Node(String data){
            this.data = data;
+           this.next = null;
        }
     } Node head;              // assuming as constant because we shouldnt move our header
 
