@@ -1,4 +1,5 @@
-public class RecursionQ1 {   
+public class RecursionQ1 { 
+    // this is our main() metho;
     public static void main(String[] args) {
       int result = sum(7);
       System.out.println(result);
