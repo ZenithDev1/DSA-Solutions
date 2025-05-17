@@ -5,7 +5,7 @@ public class CountSort {
         int n =6;
         int[] arr = {6,2,6,6,2,4};
         int max = 0;
-
+          // finding max
         for(int i = 0; i<= arr.length-1; i++){
             if(max < arr[i]){
                 max = arr[i];
