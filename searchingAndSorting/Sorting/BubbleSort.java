@@ -1,5 +1,5 @@
 package DSA;
-import java.util.*;
+import java.util.Arrays;
 
 public class BubbleSort {
     public static void main(String[] args) {
