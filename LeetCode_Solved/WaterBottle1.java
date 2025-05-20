@@ -1,6 +1,6 @@
 class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
-      // 1518 problem leetcode
+      // 1518 leetcode
        int ans = numBottles;
      
      while(numBottles >= numExchange){
