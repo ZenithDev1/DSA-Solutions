@@ -1,5 +1,5 @@
 import java.util.*;
-// Hackerrank_Problem_of_Java_Badge link:-
+// Hackerrank_Problem_of_Java_Badge link:--
 //  https://www.hackerrank.com/challenges/java-interface/problem
 interface AdvancedArithmetic{
   int divisor_sum(int n);
