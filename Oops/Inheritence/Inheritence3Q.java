@@ -1,4 +1,4 @@
-public class Oops5Q{
+public class Inheritence3Q{
     public static void main(String args[]){
     // create object for car
     Vehical car1 = new Car("BMW",5908);
