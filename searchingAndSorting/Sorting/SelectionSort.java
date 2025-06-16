@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// we are implimenting Selection sort
 class SelectionSort {
     public static void selectionSort(int arr[], int n) {
         for (int i = 0; i < n - 1; i++) {
