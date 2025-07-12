@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Topic collection framework in java
 class Book {
     String title;
     String author;
